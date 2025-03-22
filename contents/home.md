@@ -8,8 +8,8 @@ Cheng Xuan was born in 1999 in Wuhan, China. After years of study in psychology,
 xuancheng510[at]163.com
 
 #### Education
-2021.09~2024.06, M.Sc. in Psychology, Nanjing Normal University \
-2017.09~2021.06, B.Sc. in Psychology, Hubei University
+2021.09-2024.06, M.Sc. in Psychology, Nanjing Normal University \
+2017.09-2021.06, B.Sc. in Psychology, Hubei University
 
 #### Research Interests
 Mental health, Children and adolescents, Individual and family resilience, Suicide and Non-suicidal self-injury.
