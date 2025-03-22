@@ -1,6 +1,6 @@
 - <strong>Cheng, X.</strong>, Feng, Y., An, Y.*, & Song, Y. (2024). The association between family resilience and mental health: A three-level meta-analysis. <em>Archives of Psychiatric Nursing</em>, <em>53</em>, 224–231. [[Paper]](https://doi.org/10.1016/j.apnu.2024.10.017)
 
-- Qu, D.#, Wen X.#, <strong>Cheng, X.#</strong>, Zhu A., Wu, Z., Che, L. & Chen, R.* (2024). School mental health prevention and intervention strategies in China: A scoping review. <em>The Lancet Regional Health-Western Pacific</em>. <em>53</em>, 101243. [[Paper]](https://doi. org/10.1016/j.lanwpc.2024.101243)
+- Qu, D.#, Wen X.#, <strong>Cheng, X.#</strong>, Zhu A., Wu, Z., Che, L. & Chen, R.* (2024). School mental health prevention and intervention strategies in China: A scoping review. <em>The Lancet Regional Health-Western Pacific</em>. <em>53</em>, 101243. [[Paper]](https://doi.org/10.1016/j.lanwpc.2024.101243)
 
 - An, Y., <strong>Cheng, X.</strong>, Yue, J.*, & Yuan, G. (2024). A psychometric study of the revised Chinese version of the family resilience assessment scale among children disadvantaged due to family migration. <em>Archives of Psychiatric Nursing</em>, <em>50</em>, 115–121. [[Paper]](https://doi.org/10.1016/j.apnu.2024.03.013)
 
