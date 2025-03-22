@@ -8,7 +8,7 @@
 
 - Zheng, Z., An, Y., Lu, Y.*, <strong>Cheng, X.</strong>, & Yuan, G. (2024). Comparison of depressive symptoms of migrant and left-behind children in China: A network analysis perspective. <em>Current Psychology</em>, <em>43</em>(33), 27207–27215. [[Paper]](https://doi.org/10.1007/s12144- 024-06324-7)
 
-- Zhao, Y., Yuan, G., Sun, X., <strong>Cheng, X.</strong>, Miao, J.*, & Lin, Z. (2024). A Multifaceted Intervention Designed for Chinese Migrant Families Involving Educational Philosophy, Parenting Style, and Parent-Child Relationships: A Pilot Study. <em>Child & Family Behavior Therapy<em>. [[Paper]](https://doi.org/10.1080/07317107.2024.2433981)
+- Zhao, Y., Yuan, G., Sun, X., <strong>Cheng, X.</strong>, Miao, J.*, & Lin, Z. (2024). A Multifaceted Intervention Designed for Chinese Migrant Families Involving Educational Philosophy, Parenting Style, and Parent-Child Relationships: A Pilot Study. <em>Child & Family Behavior Therapy</em>. [[Paper]](https://doi.org/10.1080/07317107.2024.2433981)
 
 - Zhou, H., Hu, Y., <strong>Cheng, X.</strong>, & Sun, X.* (2023). Resilience as Mediator in Relation to Parental Attachment and Posttraumatic Stress Disorder in Adolescents following the Yancheng Tornado. <em>Clinical Child Psychology and Psychiatry</em>, <em>28</em>(4), 1408–1419. [[Paper]](https://doi.org/10.1177/13591045231160639)
 
